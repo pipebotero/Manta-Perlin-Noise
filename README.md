@@ -3,4 +3,4 @@ Manta conformada por cubos en un espacio 3D, los cuales se mueven según una int
 
 Es un codigo realizado en processing 2, usando la librería peasyCam.
 
-Dentro del proyecto, están los ejecutables para windows, mac y linux.
+Dentro de la carpeta llamada "MantaPerlinNoise", se encuentra el codigo y los ejecutables para windows, mac y linux.
